@@ -21,6 +21,11 @@
   animation: eye-move 3s infinite;
 }
 
+#right-eye {
+  transform-origin: 171px 107px;
+  animation: eye-move 3s infinite;
+}
+
 @keyframes eye-move {
 
   0% {
